@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+references in resume-branch 😈
